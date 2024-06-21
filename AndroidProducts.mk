@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_voyager.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_voyager-user \
-    lmodroid_voyager-userdebug \
-    lmodroid_voyager-eng
